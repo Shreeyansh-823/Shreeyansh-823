@@ -3,12 +3,16 @@
 
 - 🌱 I’m currently learning **Springboot , React , NodeJS**
 
-- 💬 Ask me about **ava, Spring Boot, REST APIs, SQL, Git**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, SQL, Git**
 
 - 📫 How to reach me **Email: shreeyansh2112020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/shreeyansh-pandit-7451aa247/" target="_blank">
+    🔗 LinkedIn
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
