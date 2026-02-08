@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/shreeyansh-pandit-7451aa247/" target="_blank">
+  <a href="https://www.linkedin.com/in/shreeyansh-pandit-7451aa247/" target="_blank">
     🔗 LinkedIn
   </a>
 </p>
