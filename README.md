@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **ava, Spring Boot, REST APIs, SQL, Git**
 
-- 📫 How to reach me **Email: shreeyansh211202@gmail.com**
+- 📫 How to reach me **Email: shreeyansh2112020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
